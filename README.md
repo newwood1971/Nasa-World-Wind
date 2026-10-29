@@ -214,4 +214,4 @@ NASA World Wind is available as a complete free version with all features and up
 Ready to embark on your global adventure? Download NASA World Wind now and explore the wonders of our planet!
 
 ---
-**Last updated:** 2026-10-29 14:48:03 UTC
+**Last updated:** 2026-10-29 19:57:57 UTC
